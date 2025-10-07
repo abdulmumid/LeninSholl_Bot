@@ -1,0 +1,32 @@
+{
+  "registered_users": [
+    5349154050,
+    7547391647
+  ],
+  "users": {
+    "5349154050": {
+      "name": "Абдулмумид",
+      "last_message": "2025-10-07T10:37:50.385930",
+      "warnings": 0,
+      "temp_block": null,
+      "permanent_block": false,
+      "awaiting_broadcast_message": false,
+      "awaiting_block_user": false,
+      "awaiting_unblock": false,
+      "category": null,
+      "messages_count": 11
+    },
+    "7547391647": {
+      "name": "....",
+      "last_message": null,
+      "warnings": 0,
+      "temp_block": null,
+      "permanent_block": false,
+      "awaiting_broadcast_message": false,
+      "awaiting_block_user": false,
+      "awaiting_unblock": false,
+      "category": null,
+      "messages_count": 0
+    }
+  }
+}

@@ -1,0 +1,61 @@
+2025-10-07 16:36:13,425 INFO: No data file found, starting fresh
+2025-10-07 16:36:13,729 INFO: Bot @LeninShool_Bot (id: 7550393794) starting...
+2025-10-07 16:36:13,729 INFO: Start polling
+2025-10-07 16:36:13,821 INFO: Run polling for bot @LeninShool_Bot id=7550393794 - 'LeninShool_Bot'
+2025-10-07 16:36:40,993 INFO: Initialized user 5349154050 (Абдулмумид)
+2025-10-07 16:36:40,993 INFO: /start from 5349154050 (Абдулмумид). Is admin: True
+2025-10-07 16:36:41,278 INFO: Update id=998436874 is handled. Duration 285 ms by bot id=7550393794
+2025-10-07 16:36:43,429 INFO: Data saved to data.json
+2025-10-07 16:36:45,096 INFO: Message from 5349154050: '📊 Статистика' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:45,326 INFO: Update id=998436875 is handled. Duration 230 ms by bot id=7550393794
+2025-10-07 16:36:47,365 INFO: Message from 5349154050: '📊 Статистика' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:47,518 INFO: Update id=998436876 is handled. Duration 153 ms by bot id=7550393794
+2025-10-07 16:36:49,543 INFO: Message from 5349154050: '⚙️ Настройки бота' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:49,673 INFO: Update id=998436877 is handled. Duration 130 ms by bot id=7550393794
+2025-10-07 16:36:52,767 INFO: Message from 5349154050: '⛔ Заблокировать пользователя' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:52,891 INFO: Update id=998436878 is handled. Duration 124 ms by bot id=7550393794
+2025-10-07 16:36:56,143 INFO: Message from 5349154050: '✅ Разблокировать пользователя' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:56,250 ERROR: Invalid uid for block: ✅ Разблокировать пользователя (invalid literal for int() with base 10: '✅ Разблокировать пользователя')
+2025-10-07 16:36:56,250 INFO: Update id=998436879 is handled. Duration 107 ms by bot id=7550393794
+2025-10-07 16:36:59,386 INFO: Message from 5349154050: '📣 Сделать рассылку' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:36:59,512 INFO: Update id=998436880 is handled. Duration 126 ms by bot id=7550393794
+2025-10-07 16:37:08,006 INFO: Message from 5349154050: '📊 Статистика' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:37:08,171 INFO: Update id=998436881 is handled. Duration 165 ms by bot id=7550393794
+2025-10-07 16:37:10,583 INFO: Message from 5349154050: '📊 Статистика' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:37:10,691 INFO: Update id=998436882 is handled. Duration 108 ms by bot id=7550393794
+2025-10-07 16:37:13,445 INFO: Data saved to data.json
+2025-10-07 16:37:35,698 INFO: Initialized user 7547391647 (....)
+2025-10-07 16:37:35,698 INFO: /start from 7547391647 (....). Is admin: False
+2025-10-07 16:37:35,824 INFO: Update id=998436883 is handled. Duration 126 ms by bot id=7550393794
+2025-10-07 16:37:39,590 INFO: Message from 5349154050: '📊 Статистика' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:37:39,699 INFO: Update id=998436884 is handled. Duration 109 ms by bot id=7550393794
+2025-10-07 16:37:42,958 INFO: Message from 5349154050: '📣 Сделать рассылку' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:37:43,067 INFO: Update id=998436885 is handled. Duration 109 ms by bot id=7550393794
+2025-10-07 16:37:43,446 INFO: Data saved to data.json
+2025-10-07 16:37:50,385 INFO: Message from 5349154050: 'a' | state: warnings=0 perm_block=False temp_block=None
+2025-10-07 16:37:50,619 INFO: Update id=998436886 is handled. Duration 234 ms by bot id=7550393794
+2025-10-07 16:38:13,450 INFO: Data saved to data.json
+2025-10-07 16:38:43,453 INFO: Data saved to data.json
+2025-10-07 16:39:13,456 INFO: Data saved to data.json
+2025-10-07 16:39:43,458 INFO: Data saved to data.json
+2025-10-07 16:40:13,460 INFO: Data saved to data.json
+2025-10-07 16:40:40,350 WARNING: Received SIGINT signal
+2025-10-07 16:40:40,351 INFO: Polling stopped for bot @LeninShool_Bot id=7550393794 - 'LeninShool_Bot'
+2025-10-07 16:40:40,351 INFO: Polling stopped
+2025-10-07 16:40:40,602 INFO: Autosave task cancelled, saving one last time
+2025-10-07 16:40:40,603 INFO: Data saved to data.json
+2025-10-07 16:40:40,603 INFO: Data saved to data.json
+2025-10-07 16:40:40,603 INFO: Bot stopped and data saved
+2025-10-07 16:59:09,337 INFO: Loaded data from data.json
+2025-10-07 16:59:09,698 INFO: Bot @LeninShool_Bot (id: 7550393794) starting...
+2025-10-07 16:59:09,698 INFO: Start polling
+2025-10-07 16:59:09,789 INFO: Run polling for bot @LeninShool_Bot id=7550393794 - 'LeninShool_Bot'
+2025-10-07 16:59:14,990 INFO: /start from 5349154050 (Абдулмумид). Is admin: True
+2025-10-07 16:59:15,403 INFO: Update id=998436887 is handled. Duration 413 ms by bot id=7550393794
+2025-10-07 16:59:24,055 WARNING: Received SIGINT signal
+2025-10-07 16:59:24,056 INFO: Polling stopped for bot @LeninShool_Bot id=7550393794 - 'LeninShool_Bot'
+2025-10-07 16:59:24,056 INFO: Polling stopped
+2025-10-07 16:59:24,307 INFO: Autosave task cancelled, saving one last time
+2025-10-07 16:59:24,307 INFO: Data saved to data.json
+2025-10-07 16:59:24,308 INFO: Data saved to data.json
+2025-10-07 16:59:24,308 INFO: Bot stopped and data saved
