@@ -1,2 +1,4 @@
 .env
 .gitignore
+data.json
+bot.log
